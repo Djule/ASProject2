@@ -1,6 +1,4 @@
 Ann a new player
-Delete
-Newtest
-Newtest18
-Func1
-Func6
+gui todo
+gui todo2
+gui todo 3
