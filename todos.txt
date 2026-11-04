@@ -1,4 +1,11 @@
-Ann a new player
-gui todo
-gui todo2
-gui todo 3
+10
+5
+2
+30
+14
+4
+304
+21
+307
+15
+158
